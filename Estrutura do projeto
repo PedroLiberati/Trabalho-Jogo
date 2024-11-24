@@ -1,0 +1,29 @@
+jogo_adivinhar/
+
+├── src/
+
+│   ├── main.c
+
+│   ├── jogo.c
+
+│   ├── jogo.h
+
+│   ├── fase1.c
+
+│   ├── fase2.c
+
+│   ├── fase3.c
+
+│   ├── fase4.c
+
+│   ├── fase5.c
+
+│   └── util.c
+
+├── include/
+
+│   └── util.h
+
+├── Makefile
+
+└── estatisticas.bin
